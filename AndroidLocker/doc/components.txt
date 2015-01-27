@@ -1,0 +1,8 @@
+BootIntent (invoked on boot)
+Add alarm (cyclic)
+
+start App A
+|-closed
+start App B
+|-closed 
+start App A
